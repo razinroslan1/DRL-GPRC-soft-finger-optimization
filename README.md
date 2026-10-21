@@ -35,7 +35,7 @@ use_gprc = False # GPRC disabled
 ## Related Publications
 This repository accompanies the currently under review research paper:
 
-Residual Learning with Human-Assisted Experimental Feedback for Embodied Sim-to-Real Design Optimization of Soft Robotic Fingers
+**Residual Learning with Human-Assisted Experimental Feedback for Embodied Sim-to-Real Design Optimization of Soft Robotic Fingers**
 
 Authors: Muhammad Razin Roslan, Koay Jin Yuan, Bryan Jun Sheng Lee, Surya G. Nurzaman
 Journal: Biomimetic Intelligence and Robotics
