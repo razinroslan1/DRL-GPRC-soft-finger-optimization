@@ -38,6 +38,7 @@ If you wish to use, reproduce, or adapt any code or designs from this repository
 **Residual Learning with Human-Assisted Experimental Feedback for Embodied Sim-to-Real Design Optimization of Soft Robotic Fingers**
 
 Authors: Muhammad Razin Roslan, Koay Jin Yuan, Bryan Jun Sheng Lee, Surya G. Nurzaman
+
 Journal: Biomimetic Intelligence and Robotics
 
 DOI: TBA
