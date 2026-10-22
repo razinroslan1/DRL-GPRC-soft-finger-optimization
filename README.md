@@ -33,7 +33,7 @@ use_gprc = False # GPRC disabled
 ```
 
 ## Related Publications
-This repository accompanies the currently under review research paper:
+If you wish to use, reproduce, or adapt any code or designs from this repository in your own work, please cite the associated research paper, currently under review:
 
 **Residual Learning with Human-Assisted Experimental Feedback for Embodied Sim-to-Real Design Optimization of Soft Robotic Fingers**
 
